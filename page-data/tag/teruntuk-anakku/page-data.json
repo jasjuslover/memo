@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-template-tag-template-tsx",
+    "path": "/tag/teruntuk-anakku",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Memo","subtitle":"Ini muncul dimana?"}},"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/posts/2022-04-18---Perkenalan/perkenalan","categorySlug":"/category/teruntuk-anakku/"},"frontmatter":{"title":"Teruntuk Anakku - Perkenalan","date":"2022-04-18T03:20:31.169Z","category":"Teruntuk Anakku","description":"Diawali Basmalah, saya kembali menulis. Sebuah perkenalan singkat dengan dunia"}}}]}},"pageContext":{"group":"Teruntuk Anakku","limit":4,"offset":0,"pagination":{"currentPage":0,"prevPagePath":"/tag/teruntuk-anakku","nextPagePath":"/tag/teruntuk-anakku/page/1","hasNextPage":false,"hasPrevPage":false}}},
+    "staticQueryHashes": ["251939775","357378587","401334301","63107425"]}

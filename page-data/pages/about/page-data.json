@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-page-template-tsx",
+    "path": "/pages/about/",
+    "result": {"data":{"markdownRemark":{"id":"6cf22fcb-3351-5655-98dd-3a4078e187d7","html":"<p>Masih diajar nulis</p>","frontmatter":{"title":"Perkawis Pribados","date":null,"description":null,"socialImage":"/notebook.jpg"}}},"pageContext":{"slug":"/pages/about/"}},
+    "staticQueryHashes": ["251939775","357378587","401334301","63107425"]}

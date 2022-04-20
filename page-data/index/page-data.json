@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-index-template-index-template-tsx",
+    "path": "/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"categorySlug":"/category/teruntuk-anakku/","slug":"/posts/2022-04-18---Perkenalan/perkenalan"},"frontmatter":{"description":"Diawali Basmalah, saya kembali menulis. Sebuah perkenalan singkat dengan dunia","category":"Teruntuk Anakku","title":"Teruntuk Anakku - Perkenalan","date":"2022-04-18T03:20:31.169Z"}}}]}},"pageContext":{"limit":4,"offset":0,"pagination":{"currentPage":0,"prevPagePath":"/","nextPagePath":"/page/1","hasNextPage":false,"hasPrevPage":false}}},
+    "staticQueryHashes": ["251939775","357378587","401334301","63107425"]}
